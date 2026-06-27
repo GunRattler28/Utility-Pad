@@ -1,4 +1,4 @@
-# Macropad Project
+# Utility Pad
 
 ## Bill of Materials
 
